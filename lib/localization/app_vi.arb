@@ -1,0 +1,16 @@
+{
+  "@@locale": "vi",
+  "homePage": "Trang chủ",
+  "personalInformation": "Thông tin cá nhân",
+  "name": "Tên",
+  "nameHint": "Nhập tên của bạn",
+  "email": "Địa chỉ Email",
+  "emailHint": "Nhập email của bạn",
+  "dateOfBirth": "Ngày sinh",
+  "requiredField": "Trường bắt buộc",
+  "submitInfo": "Gửi thông tin",
+  "aboutUs": "Giới thiệu",
+  "settings": "Cài đặt",
+  "changeLanguage": "Thay đổi ngôn ngữ",
+  "about": "ĐÔ LA THẦN CHƯỞNG"
+}

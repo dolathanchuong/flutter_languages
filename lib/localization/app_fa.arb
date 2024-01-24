@@ -1,0 +1,16 @@
+{
+  "@@locale": "fa",
+  "homePage": "صفحه اصلی",
+  "personalInformation": "معلومات شخصی",
+  "name": "اسم",
+  "nameHint": "اسم خود را وارد نمایید",
+  "email": "آدرس الکترونیکی",
+  "emailHint": "آدرس الکترونیکی خود را وارد نمایید",
+  "dateOfBirth": "تاریخ تولد",
+  "requiredField": "این زمینه ضروری می باشد",
+  "submitInfo": "ثبت معلومات",
+  "aboutUs": "در باره ما",
+  "settings": "تنظیمات",
+  "changeLanguage": "تغیر زبان",
+  "about": "ڈالر کی طاقت"
+}

@@ -1,0 +1,16 @@
+{
+  "@@locale": "ar",
+  "homePage": "الصفحة الرئيسية",
+  "personalInformation": "معلومات شخصية",
+  "name": "اسم",
+  "nameHint": "أدخل أسمك",
+  "email": "البريد الإلكتروني",
+  "emailHint": "أدخل بريدك الالكتروني",
+  "dateOfBirth": "تاريخ الولادة",
+  "requiredField": "يتطلب حقلا",
+  "submitInfo": "إرسال معلومات",
+  "aboutUs": "معلومات عنا",
+  "settings": "الإعدادات",
+  "changeLanguage": "تغيير اللغة",
+  "about": "قوة الدولارات"
+}
